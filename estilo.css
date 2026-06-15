@@ -1,3 +1,10 @@
 body{
     background-color: bisque;
 }
+img{
+    width: 200px;
+    height: 200px;
+    display: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
